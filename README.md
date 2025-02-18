@@ -1,12 +1,19 @@
 # 📄 GitMe - AI-Powered Commit Message Generator
 🚀 **GitMe** is a CLI tool that **automatically generates commit messages** based on your staged Git changes using OpenAI’s GPT API.
 
+
 ## 📌 Features
 ✅ Analyzes Git diffs to understand code changes
+
 ✅ Uses AI to generate 5 commit message options
+
 ✅ Interactive CLI for easy selection
+
 ✅ Follows Git best practices (imperative tense)
+
 ✅ Prevents committing secrets with .gitignore
+
+
 
 ## 🛠 Installation
 1. **Clone the Repository**
